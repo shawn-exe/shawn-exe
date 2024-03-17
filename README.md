@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shawn Salis</h1>
-<h3 align="justify">As a passionate 3rd-year Computer Science student at NMAM Institute of Technology Nitte, I thrive on exploring innovative solutions to real-world problems. With a keen interest in software development and problem-solving, I am driven by the desire to make a positive impact through technology.</h3>
+<h4 align="justify">As a passionate 3rd-year Computer Science student at NMAM Institute of Technology Nitte, I thrive on exploring innovative solutions to real-world problems. With a keen interest in software development and problem-solving, I am driven by the desire to make a positive impact through technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawn-exe&label=Profile%20views&color=0e75b6&style=flat" alt="shawn-exe" /> </p>
 
