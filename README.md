@@ -3,7 +3,7 @@
 
 
 <p align="left">
-- 🌱 I’m currently learning **PostgreSQL🗄️**
+- 🌱 I’m currently learning <b>SPRING🌿</b>
 
 - 📫 How to reach me **shawnxsalis@gmail.com**
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawn-exe&show_icons=true&locale=en&layout=compact" alt="shawn-exe" /></p> 
