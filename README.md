@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shawn-exe&" alt="shawn-exe" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shawn-exe&" alt="shawn-exe" /></p> -->
 </p>
 
 <h3 align="left">Tools:</h3>
